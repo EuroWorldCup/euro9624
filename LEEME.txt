@@ -1,0 +1,25 @@
+EUROCOPAS 1996-2024 · Cómo publicar la web gratis en GitHub Pages
+=================================================================
+
+Esta carpeta es la web completa de las Eurocopas. Incluye las ocho
+ediciones: Inglaterra '96, Bélgica-Países Bajos 2000, Portugal 2004,
+Austria-Suiza 2008, Polonia-Ucrania 2012, Francia 2016, la Euro 2020 y
+Alemania 2024. En esta versión, las fotos que no
+van incluidas en la carpeta data se cargan directamente desde Wikimedia
+Commons, así que aparecen todas las que tienen foto libre.
+
+1. Entra en https://github.com con tu cuenta (o crea una gratuita).
+2. Pulsa "New repository". Ponle de nombre, por ejemplo: eurocopas.
+   Márcalo como "Public" y pulsa "Create repository".
+3. En la página del repositorio, pulsa "uploading an existing file" y arrastra
+   TODO el contenido de esta carpeta (index.html, la carpeta data, la carpeta img
+   y el archivo .nojekyll). Pulsa "Commit changes".
+4. Ve a "Settings" > "Pages". En "Branch" elige "main" y la carpeta "/ (root)"
+   y pulsa "Save".
+5. En uno o dos minutos la web estará en:
+   https://TU-USUARIO.github.io/eurocopas/
+
+Para actualizarla al añadir una Eurocopa nueva, basta con volver a subir los
+archivos nuevos (index.html y las carpetas data e img) al mismo repositorio.
+
+Créditos y licencias: ver la sección "Fuentes" de la propia web.
